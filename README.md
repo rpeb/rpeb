@@ -10,9 +10,9 @@
     src="https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white&style=shield"
   />
     </a>
-    - <a href="https://twitter.com/alekswritescode"><img
+    - <a href="mailto:prakashdubey1999@gmail.com"><img
     alt="Gmail"
-    src="https://img.shields.io/badge/Gmail-EA4335?logo=twitter&logoColor=white&style=shield"
+    src="https://img.shields.io/badge/Gmail-EA4335?logo=gmail&logoColor=white&style=shield"
   />
 </a>
 
