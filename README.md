@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning Typescript
 - 💬 Ask me about GraphQL backends
 - 📫 How to reach me: 
-    - <a href="https://twitter.com/__prakashdubey"><img
+    - <a href="https://twitter.com/__prakashdubey" target="_blank"><img
     alt="Twitter"
     src="https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white&style=shield"
   />
