@@ -1,36 +1,11 @@
-### Hi there 👋
+### Hi there, I'm Prakash 👋
 ### I am a learner starting upon my journey as SDE
-
+[![Twitter Follow](https://img.shields.io/twitter/follow/__prakashdubey?label=Follow)](https://twitter.com/intent/follow?screen_name=__prakashdubey)
+![GitHub followers](https://img.shields.io/github/followers/rpeb?label=Follow&style=social)
+<img alt = "profile views" src="https://komarev.com/ghpvc/?username=rpeb&color=brightgreen">
 - 🔭 I’m currently working on GraphQL technologies
-- 🌱 I’m currently learning Typescript
-- 💬 Ask me about GraphQL backends
-- 📫 How to reach me: 
-    - <a href="https://twitter.com/__prakashdubey" target="_blank"><img
-    alt="Twitter"
-    src="https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white&style=shield"
-  />
-    </a>
-    - <a href="mailto:prakashdubey1999@gmail.com"><img
-    alt="Gmail"
-    src="https://img.shields.io/badge/Gmail-EA4335?logo=gmail&logoColor=white&style=shield"
-  />
-</a>
+- 🕸 Focused on web technologies
+- 🌱 Learning Typescript
+- Send me an email at prakashdubey1999@gmail.com
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=rpeb&show_icons=true&theme=graywhite&count_private=true)
-
-
-
-<!--
-**rpeb/rpeb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
