@@ -12,3 +12,5 @@
 - Send me an email at prakashdubey1999@gmail.com
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=rpeb&show_icons=true&theme=graywhite&count_private=true)
+
+![Activity Graph](https://activity-graph.herokuapp.com/graph?username=rpeb&theme=github&hide_border=true&bg_color=0d1117&area_color=1f6fea&line=38d252&point=1f6fea&color=fefefe)
